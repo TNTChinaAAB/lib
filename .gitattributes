@@ -1,1 +1,2 @@
 work.zip filter=lfs diff=lfs merge=lfs -text
+trt-8502_gpu-131365bf_net-b18c384nbt-uec-20221121b_exact19x19_batch32_fp16 filter=lfs diff=lfs merge=lfs -text
