@@ -5,3 +5,4 @@ id filter=lfs diff=lfs merge=lfs -text
 n filter=lfs diff=lfs merge=lfs -text
 trt-8502_gpu-131365bf_net-b18c384nbt-uec-20221121b_exact19x19_batch52_fp16 filter=lfs diff=lfs merge=lfs -text
 30b.gz filter=lfs diff=lfs merge=lfs -text
+katago filter=lfs diff=lfs merge=lfs -text
